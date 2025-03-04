@@ -32,7 +32,7 @@ Suggested several options for switching to Swift 6 strict concurrency using @Mai
 
 ## "Thinking" AI Groc 3 xAI :
 
-* After evaluating several sources of country border data, recommended the martynafford/natural-earth-geojson repository due to its newness (January 24, 2024), direct availability of GeoJSON, and its compliance with the latest Natural Earth data.
+* After evaluating several sources of country border data, recommended the [martynafford/natural-earth-geojson repository](https://github.com/martynafford/natural-earth-geojson) due to its newness (January 24, 2024), direct availability of GeoJSON, and its compliance with the latest Natural Earth data.
 * Provided code for two ways to decode JSON data: MKGeoJSONDecoder() in MapKit and the standard JSONDecoder()
 * Used modern async / await multithreaded fetching of JSON data from the web
 * Integrated country border data into SwiftUI Map View
