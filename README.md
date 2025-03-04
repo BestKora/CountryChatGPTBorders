@@ -9,7 +9,7 @@
  After evaluating multiple sources, [martynafford/natural-earth-geojson](https://github.com/martynafford/natural-earth-geojson) is recommended for its recency (January 24, 2024), direct GEOJSON availability, and alignment with Natural Earth's latest data. 
 
  
- ![til](https://github.com/BestKora/CountryChatGPTo3/blob/285aa2b9c83668acf453f46f36f1e36f1fa3c590/Borders.gif)
+ ![til](https://github.com/BestKora/CountryChatGPTBorders/blob/7fcd706045940c493d5906365d6448cada81a56d/Borders.gif)
 
 ## Technologies used by ChatGPT o3-mini:
 
