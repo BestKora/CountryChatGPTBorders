@@ -2,11 +2,9 @@
 
  Discover the nations of the world with the Countries iOS application. Built with cutting-edge AI from ChatGPT 4.o3-mini and Groc 3 xAI, this app presents countries organized by region, including Europe, Asia, and Latin America.  For each country, access key information: official name, flag, population figures, GDP data, and a detailed map view showcasing its location and borders.
  
- We used World Bank data, but we did not tell the AI ​​either the sites or the data structures, 
- the AI ​​should find all this itself and use them when creating an iOS application.
-
- We ask Groc 3 xAI to  model a country border as a polygon using geo coordinates in SwiftUI with MapKit for iOS 17.
- After evaluating multiple sources, [martynafford/natural-earth-geojson](https://github.com/martynafford/natural-earth-geojson) is recommended for its recency (January 24, 2024), direct GEOJSON availability, and alignment with Natural Earth's latest data. 
+ The iOS application leverages World Bank data, with the explicit challenge given to the AI: to autonomously discover the necessary websites and data structures for development.
+ 
+ For visualizing country borders, we tasked Groc 3 xAI with creating polygon models using geo-coordinates in SwiftUI and MapKit for iOS 17.  Our resource assessment for border data led us to recommend [martynafford/natural-earth-geojson](https://github.com/martynafford/natural-earth-geojson). We selected this source for its up-to-date nature (last updated January 24, 2024), its direct provision of GEOJSON files, and its consistency with the most recent Natural Earth data.
 
  
  ![til](https://github.com/BestKora/CountryChatGPTBorders/blob/7fcd706045940c493d5906365d6448cada81a56d/Borders.gif)
