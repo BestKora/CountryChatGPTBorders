@@ -14,7 +14,7 @@
 * MVVM design pattern 
 * SwiftUI
 * async / await
-* Swift 6 strict concurrency using \```swift @MainActor\``` and marking selection functions as nonisolated or using Task.detached.
+* Swift 6 strict concurrency using @MainActor and marking selection functions as nonisolated or using Task.detached.
 *  API with Map (position: $position) and Maker
 *  CLGeocoder() to get more accurate geographic coordinates of the country's capital and Task.detached to run in the background.
   
