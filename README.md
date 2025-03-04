@@ -1,10 +1,7 @@
-## iOS apps Countries created by ChatGPT 4.o3-mini
+## iOS apps Countries created by ChatGPT 4.o3-mini and Groc 3 xAI
 
- A simple iOS application Countries, which shows all the countries of the World by region (Europe, Asia, Latin America, etc.) 
- and for each country its name and flag. 
+ Discover the nations of the world with the Countries iOS application. Built with cutting-edge AI from ChatGPT 4.o3-mini and Groc 3 xAI, this app presents countries organized by region, including Europe, Asia, and Latin America.  For each country, access key information: official name, flag, population figures, GDP data, and a detailed map view showcasing its location and borders.
  
- If you select a country, then additional information about the population 
- and the size of GDP (gross domestic product) gdp and the country's location with borders on the World map is reported.
  We used World Bank data, but we did not tell the AI ​​either the sites or the data structures, 
  the AI ​​should find all this itself and use them when creating an iOS application.
 
